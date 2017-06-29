@@ -1,6 +1,5 @@
 #include <iostream>
-#include <vector>
-#include "Terminal.h"
+#include "sources/Terminal.h"
 
 using namespace std;
 
